@@ -1,0 +1,12 @@
+../Core/Src/VL53L5CX_LIB.c:66:9:VL53L5CX_Init_All	72	static
+../Core/Src/VL53L5CX_LIB.c:168:9:VL53L5CX_GetResult	16	static
+../Core/Src/VL53L5CX_LIB.c:179:9:VL53L5CX_PrintMatrix	16	static
+../Core/Src/VL53L5CX_LIB.c:219:6:VL53L5CX_SetOrientation	16	static
+../Core/Src/VL53L5CX_LIB.c:224:6:VL53L5CX_SetPrintStyle	16	static
+../Core/Src/VL53L5CX_LIB.c:233:13:prv_configure_ctrl_pins	32	static
+../Core/Src/VL53L5CX_LIB.c:268:13:prv_powerup_sequence	8	static
+../Core/Src/VL53L5CX_LIB.c:289:13:prv_i2c_bus_recovery_pb8_pb9	40	static
+../Core/Src/VL53L5CX_LIB.c:335:12:prv_idx_from_rc	16	static
+../Core/Src/VL53L5CX_LIB.c:347:13:prv_print_matrix_numeric	40	static
+../Core/Src/VL53L5CX_LIB.c:382:20:prv_bg_for_cell	16	static
+../Core/Src/VL53L5CX_LIB.c:402:13:prv_print_matrix_bgcolor	48	static

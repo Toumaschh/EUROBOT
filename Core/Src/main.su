@@ -1,0 +1,9 @@
+../Core/Src/main.c:49:12:__io_putchar	16	static
+../Core/Src/main.c:61:5:main	8	static
+../Core/Src/main.c:104:6:SystemClock_Config	120	static
+../Core/Src/main.c:142:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:208:6:I2C_Bus_Recovery	32	static
+../Core/Src/main.c:264:19:MX_I2C1_Init	24	static
+../Core/Src/main.c:308:6:HAL_I2C_MspInit	48	static
+../Core/Src/main.c:326:6:HAL_I2C_MspDeInit	16	static
+../Core/Src/main.c:338:6:Error_Handler	8	static,ignoring_inline_asm
